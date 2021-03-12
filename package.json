@@ -1,0 +1,12 @@
+{
+  "name": "ai-proyect-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./build/src/index.js",
+  "scripts": {
+    "s": "tsc && node ./build/src/index.js",
+    "test": "test"
+  },
+  "author": "antonioolvera1995@gmail.com",
+  "license": "ISC"
+}
